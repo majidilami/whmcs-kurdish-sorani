@@ -57,3 +57,10 @@ To your WHMCS flag image location, for example:
 `/templates/your-template/img/flags/kurdish-sorani.svg`
 
 If your WHMCS theme supports custom language flags, add the needed CSS or template code to display the Kurdistan flag in the language menu.
+## Screenshots
+
+### Admin Area
+![WHMCS Admin Area in Kurdish Sorani](screenshots/whmcs-admin-area-kurdish.jpg)
+
+### Client Area
+![WHMCS Client Area in Kurdish Sorani](screenshots/whmcs-client-area-kurdish.jpg)
